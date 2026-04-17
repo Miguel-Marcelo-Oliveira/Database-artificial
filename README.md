@@ -1,0 +1,1 @@
+Para praticar a criação e tratamento de bases de dados e lógica de programação em Python, desenvolvi um algoritmo que cria uma base de dados de um supermercado fictício, e exporta ela no formato de uma planilha Excel automaticamente
